@@ -1,7 +1,6 @@
 # Han Yoo Tae
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ythan21)](https://solved.ac/ythan21/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanYooTae&show_icons=true&theme=radical)
 
 ### Languages
 
