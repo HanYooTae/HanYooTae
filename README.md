@@ -6,14 +6,12 @@
 
 ![](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-![](https://img.shields.io/badge/C샾-596CAF.svg?&style=for-the-badge&logo=C++&logoColor=white)
 
 ### Skills
 
 ![](https://img.shields.io/badge/Unreal%20Engine4%20/%205-0E1128.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
 ![](https://img.shields.io/badge/Unity%20Engine-36566F.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/DirectX11-263238.svg?&style=for-the-badge)
-![](https://img.shields.io/badge/Multi%20Threading-0099FF.svg?&style=for-the-badge)
 
 
 ### Collaboration Tool
